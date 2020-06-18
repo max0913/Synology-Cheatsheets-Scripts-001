@@ -1,14 +1,11 @@
 # SYNOLOGY
 
 
-##### **All** scripts that will be made by wuseman is licensed under GPL Version 3 under this repository, feel free to share the cheatsheet anywhere & anytime
-
 ##### A notice to all nerds. If you will copy the wiki and steal the real developers work will not make you a hacker.
 
 #### Be careful, some commands may wipe DATA so read carefully please.
 
-
-##### Install various packages on your Synology NAS via OPKG (script can be found [here](https://github.com/wuseman/SYNOLOGY/blob/master/scripts/wsynopkg.sh))
+##### Install various packages on your Synology NAS via OPKG (script can be found [here] - nas in video: ds416(https://github.com/wuseman/SYNOLOGY/blob/master/scripts/wsynopkg.sh))
 
 ![Screenshot](misc/ezgif-2-c48da777e053.gif)
 
