@@ -5,7 +5,7 @@
 
 #### Be careful, some commands may wipe DATA so read carefully please.
 
-##### Install various packages on your Synology NAS via OPKG (script can be found [here] - nas in video: ds416(https://github.com/wuseman/SYNOLOGY/blob/master/scripts/wsynopkg.sh))
+##### Install various packages on your Synology NAS via OPKG (script can be found [here](https://github.com/wuseman/SYNOLOGY/blob/master/scripts/wsynopkg.sh) - My Synology Nas: DS416)
 
 ![Screenshot](misc/ezgif-2-c48da777e053.gif)
 
